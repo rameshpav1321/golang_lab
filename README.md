@@ -1,0 +1,2 @@
+- This repo contains my learnings of GoLang</br>
+- My learning notes: https://www.notion.so/Go-9a0472e5f4e2469f8d0362f22d00ff10
